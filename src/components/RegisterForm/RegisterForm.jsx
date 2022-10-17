@@ -28,7 +28,7 @@ export const RegisterForm = () => {
   const theme = createTheme({
     palette: {
       primary: {
-        main: '#e84a5f',
+        main: '#1021dd',
       },
       secondary: {
         light: '#0066ff',
