@@ -44,7 +44,7 @@ export const GlobalStyle = createGlobalStyle`
     word-wrap: break-word;
         &:hover {
             color: white;
-            background-color: #e84a5f;
+            background-color: #7fe84a;
             text-decoration: none;
             transition-duration: 0.1s;
         }
