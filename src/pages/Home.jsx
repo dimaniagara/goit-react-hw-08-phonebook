@@ -18,7 +18,7 @@ export default function Home() {
       <h1 style={styles.title}>
         Good choice starts here!{' '}
         <span role="img" aria-label="Greeting icon">
-          0x260e 0xfe0f
+          ☎️
         </span>
       </h1>
     </div>
